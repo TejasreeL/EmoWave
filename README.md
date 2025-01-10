@@ -16,10 +16,10 @@ Visualize waveplots and spectrograms for various emotions.
 
 ### 3. Data Augmentation
 Apply the following techniques:
-- noise injection
-- time-stretching
-- shifting
-- pitch adjustment
+- Noise injection
+- Time-stretching
+- Shifting
+- Pitch adjustment
 
 ### 4. Feature Extraction
 Extract the following features to reduce complexity and reduce noise:
